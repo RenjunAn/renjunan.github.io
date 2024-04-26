@@ -1,0 +1,322 @@
+{
+  "head": {
+    "title": "Huatao Xu",
+    "icon": "images/NTU.png"
+  },
+  "header":
+  {
+    "index": true,
+    "news": true,
+    "research": true,
+    "publication": true,
+    "fun": true
+  },
+  "name_en": "Huatao Xu",
+  "name_zn": "徐华韬",
+  "name_tag": "Ph.D. Candidate",
+  "tel": "+65|91351995",
+  "email": "HUATAO001@e.ntu.edu.sg",
+  "website": "dapowan@github.io",
+  "github": "https://github.com/dapowan",
+  "scholar": "https://scholar.google.com/citations?user=QafNtQIAAAAJ",
+  "city": "Singapore",
+  "avatar": "images/default.JPG",
+  "introduction": "I am a third-year Ph.D. student from <a href=\"http://scse.ntu.edu.sg/Pages/Home.aspx\">SCSE</a> of <a href=\"https://www.ntu.edu.sg/Pages/home.aspx\">Nanyang Technological University (NTU)</a>, supervised by Prof. <a href=\"https://cse.hkust.edu.hk/~lim/\">Mo Li</a> and co-supervised by Assoc. Prof. <a href=\"https://personal.ntu.edu.sg/tanrui/\">Rui Tan</a>.\n                                I received my B.S. degree in School of Software from <a href=\"https://www.nju.edu.cn/EN/\">Nanjing University (NJU)</a>, and Master's degree in <a href=\"http://english.seiee.sjtu.edu.cn/\">SEIEE</a> from <a href=\"http://en.sjtu.edu.cn/\">Shanghai Jiao Tong University (SJTU)</a> under the supervision of Prof. <a href=\"https://scholar.google.com/citations?user=OBVW2YgAAAAJ&hl=zh-CN&oi=sra\">Dong Wang</a>.\n                                <br>\n                                <br>\n                                I am broadly interested in ubiquitous computing, especially in related fields of building wearable-based or wireless-based sensing interfaces to bridge gaps between computing resources and human's daily lives. My current research focuses on wearable-based sensing, including human activity recognition, localization, authentication, etc.\n                                <br>",
+  "cv_url": "files/resume_xht.pdf",
+  "education": [
+     {
+      "school": "Nanyang Technological University, NTU",
+      "major": "Ph.D. of Computer Science",
+      "period": "Jan. 2021 - Present"
+    },
+     {
+      "school": "Shanghai Jiao Tong University, SJTU",
+      "major": "Master of Software Engineering",
+      "period": "Sept. 2017 - Mar. 2020"
+    },
+    {
+      "school": "Nanjing University, NJU",
+      "major": "Bachelor of Software Engineering",
+      "period": "Sept. 2013 - Jun. 2017"
+    }
+  ],
+  "publication": [
+    {
+      "title": "Penetrative AI: Making LLMs Comprehend the Physical World",
+      "url": "https://arxiv.org/abs/2310.09605",
+      "author": ["Huatao Xu", "Liying Han", "Qirui Yang", "Mo Li", "Mani Srivastava"],
+      "author_order": 1,
+      "conf_or_jour": "ACM HotMobile 2024",
+      "resource":{
+        "paper_url": "files/PenAI.pdf",
+        "slide_url": "files/PenAI.pptx",
+        "code_url": "https://github.com/dapowan/Penetrative-AI",
+        "website_url": "https://dapowan.github.io/wands_penetrative-ai/"
+      },
+      "selected": true
+    },
+    {
+      "title": "Practically Adopting Human Activity Recognition",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3613299",
+      "author": ["Huatao Xu", "Pengfei Zhou", "Rui Tan", "Mo Li"],
+      "author_order": 1,
+      "conf_or_jour": "ACM MobiCom 2023",
+      "resource":{
+        "paper_url": "files/UniHAR.pdf",
+        "slide_url": "files/UniHAR.pptx",
+        "code_url": "https://doi.org/10.5281/zenodo.8260608",
+        "website_url": "https://dapowan.github.io/wands_unihar/"
+      },
+      "selected": true
+    },
+    {
+      "title": "Facilitating Radar-Based Gesture Recognition With Self-Supervised Learning",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9918549",
+      "author": ["Zhiyao Sheng","Huatao Xu", "Qian Zhang", "Dong Wang"],
+      "author_order": 2,
+      "conf_or_jour": "IEEE SECON 2022",
+      "resource":{
+        "paper_url": "files/RadarAE.pdf",
+        "slide_url": "files/RadarAE.pptx",
+        "code_url": "https://github.com/Ela-Boska/RadarAE"
+      },
+      "selected": true
+    },
+    {
+      "title": "LIMU-BERT: Unleashing the Potential of Unlabeled Data for IMU Sensing Applications",
+      "url": "https://dl.acm.org/doi/10.1145/3485730.3485937",
+      "author": ["Huatao Xu", "Pengfei Zhou", "Rui Tan", "Mo Li", "Guobin Shen"],
+      "author_order": 1,
+      "conf_or_jour": "ACM SenSys 2021 (Best Paper Runner-up)",
+      "resource":{
+        "paper_url": "files/LIMU-BERT.pdf",
+        "slide_url": "files/LIMU-BERT.pptx",
+        "video_url": "https://www.youtube.com/watch?v=B9_EQVAVAA0",
+        "code_url": "https://github.com/dapowan/LIMU-BERT-Public"
+      },
+      "selected": true
+    },
+    {
+      "title": "FaHo: Deep Learning Enhanced Holographic Localization for RFID tags",
+      "url": "https://dl.acm.org/doi/10.1145/3356250.3360035",
+      "author": ["Huatao Xu", "Dong Wang", "Run Zhao", "Qian Zhang"],
+      "author_order": 1,
+      "conf_or_jour": "ACM SenSys 2019",
+      "resource":{
+        "paper_url": "files/FaHo.pdf",
+        "slide_url": "files/FaHo.pptx"
+      },
+      "selected": true
+    },
+    {
+      "title": "AdaRF: Adaptive RFID-based Indoor Localization Using Deep Learning Enhanced Holography",
+      "url": "https://dl.acm.org/doi/10.1145/3351271",
+      "author": ["Huatao Xu", "Dong Wang", "Run Zhao", "Qian Zhang"],
+      "author_order": 1,
+      "conf_or_jour": "ACM IMWUT (UbiComp) 2019",
+      "resource":{
+        "paper_url": "files/AdaRF.pdf",
+        "slide_url": "files/AdaRF.pptx",
+        "code_url": "https://github.com/dapowan/AdaRF"
+      },
+      "selected": true
+    },
+    {
+      "title": "PEC: Synthetic Aperture RFID Localization with Aperture Position Error Compensation",
+      "url": "https://ieeexplore.ieee.org/document/8824882",
+      "author": ["Run Zhao", "Dong Wang", "Qian Zhang", "Haonan Chen", "Huatao Xu"],
+      "author_order": 5,
+      "conf_or_jour": "IEEE SECON 2019",
+      "resource":{
+        "paper_url": "files/PEC.pdf",
+        "slide_url": "files/PEC.pptx"
+      },
+      "selected": false
+    },
+    {
+      "title": "PRMS: Phase and RSSI based Localization System for Tagged Objects on Multilayer with a Single Antenna",
+      "url": "https://dl.acm.org/doi/10.1145/3242102.3242138",
+      "author": ["Huatao Xu", "Run Zhao", "Qian Zhang", "Dong Wang"],
+      "author_order": 1,
+      "conf_or_jour": "ACM MSWiM 2018",
+      "resource":{
+        "paper_url": "files/PRMS.pdf",
+        "slide_url": "files/PRMS.pptx"
+      },
+      "selected": false
+    }
+  ],
+  "honor_award": [
+    "2024 HotMobile Student Travel Grant",
+    "2022 GetMobile Research Highlight",
+    "2021 SenSys Best Paper Runner-up",
+    "2021 Kaggle Indoor Location & Navigation Competition Silver Medal (40/1170, top 4%)",
+    "2019 Shanghai Outstanding Graduate Student",
+    "2019 China National Scholarship",
+    "2017-2019 Shanghai Jiao Tong University First-class Scholarship",
+    "2016 Nanjing University Inspirational Scholarship"
+  ],
+  "news":[
+    {
+      "date": "Jan. 2024",
+      "content": "Our position paper \"Penetrative AI\" is accepted by <span class=\"item-bold\">HotMobile 2024</span>."
+    },
+    {
+      "date": "Oct. 2023",
+      "content": "Attend <span class=\"item-bold\">MobiCom 2023</span> in Madrid, Spain."
+    },
+    {
+      "date": "Aug. 2023",
+      "content": "Our paper \"UniHAR\" is accepted by <span class=\"item-bold\">MobiCom 2023</span>."
+    },
+    {
+      "date": "Aug. 2022",
+      "content": "Our paper \"LIMU-BERT\" is invited to publish in <span class=\"item-bold\">GetMobile</span> as a <a href=\"files/LIMU-BERT_GetMobile.pdf\">research highlight</a>."
+    },
+    {
+      "date": "Aug. 2022",
+      "content": "Our paper \"RadarAE\" is accepted by <span class=\"item-bold\">SECON 2022</span>."
+    },
+    {
+      "date": "Nov. 2021",
+      "content": "Our paper \"LIMU-BERT\" wins <span class=\"item-bold\">SenSys 2021 best paper runner-up award</span>."
+    },
+    {
+      "date": "Oct. 2021",
+      "content": "Our paper \"LIMU-BERT\" is accepted by <span class=\"item-bold\">SenSys 2021</span>."
+    },
+    {
+      "date": "Jan. 2021",
+      "content": "Start to pursue for my Ph.D. degree in <span class=\"item-bold\">NTU</span>."
+    },
+    {
+      "date": "Dec. 2020",
+      "content": "Finish internship at Local Life Research Institute of Alibaba (Eleme)."
+    },
+    {
+      "date": "Apr. 2020",
+      "content": "Start internship at Local Life Research Institute of Alibaba (Eleme)."
+    },
+    {
+      "date": "Mar. 2020",
+      "content": "Graduate from <span class=\"item-bold\">SJTU</span>."
+    },
+    {
+      "date": "Jan. 2020",
+      "content": "Successfully defend my master's thesis."
+    },
+    {
+      "date": "Nov. 2019",
+      "content": "Attend <span class=\"item-bold\">SenSys 2019</span> in New York, USA."
+    },
+    {
+      "date": "Sept. 2019",
+      "content": "Attend <span class=\"item-bold\">Ubicomp 2019</span> in London, UK."
+    },
+    {
+      "date": "Aug. 2019",
+      "content": "Our paper \"FaHo\" is accepted by <span class=\"item-bold\">SenSys 2019</span>."
+    },
+    {
+      "date": "Jul. 2019",
+      "content": "Our paper \"AdaRF\" is accepted by <span class=\"item-bold\">Ubicomp 2019</span> after a cycle of major revisions."
+    },
+    {
+      "date": "Apr. 2019",
+      "content": "Our paper \"PEC\" is accepted by <span class=\"item-bold\">SECON 2019</span>."
+    },
+    {
+      "date": "Nov. 2018",
+      "content": "Attend <span class=\"item-bold\">MSWiM 2019</span> in Montreal, Canada."
+    },
+    {
+      "date": "Apr. 2019",
+      "content": "Our paper \"PRMS\" is accepted by <span class=\"item-bold\">MSWiM 2018</span>."
+    }
+  ],
+  "news_show_count": 12,
+  "research": [
+    {
+      "topic": "Penetrative AI",
+      "project": [
+        {
+          "name": "",
+          "intro": "This project investigates the potential of large language models (LLMs), such as ChatGPT, to process IoT sensor data and accomplish tasks in the physical world, extending their capabilities beyond natural language processing. We term this endeavor Penetrative AI -- where the embedded world knowledge in LLMs serves as a foundation, seamlessly integrated with the Cyber-Physical Systems (CPS) for perceiving and intervening in the physical world.",
+          "publication": [
+            {
+              "title": "Penetrative AI (HotMobile)",
+              "url": "https://arxiv.org/abs/2310.09605"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Wearable Sensing",
+      "project": [
+        {
+          "name": "Human Activity Recognition",
+          "intro": "This project proposes a universal learning framework for mobile devices that employs physics-informed data augmentation techniques and IMU foundation models to address data heterogeneity in IMU-based HAR.",
+          "publication": [
+            {
+              "title": "UniHAR",
+              "url": "https://dl.acm.org/doi/abs/10.1145/3570361.3613299"
+            }
+          ]
+        },
+        {
+          "name": "Sensor Foundation Model",
+          "intro": "This project targets designing foundation models for sensor data. We present a BERT-like self-supervised representation learning for IMU data, which extracts generalized features from abundant unlabeled sensor data and substantially reduces the supervised training overhead for down-stream task-specific sensing models.",
+          "publication": [
+            {
+              "title": "LIMU-BERT",
+              "url": "https://dl.acm.org/doi/10.1145/3485730.3485937"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Wireless Sensing",
+      "project": [
+        {
+          "name": "mmRadar-based Gesture Recognition",
+          "intro": "Our research project aims at leveraging self-supervised learning to enhance millimeter-wave radar-based gesture recognition, addressing the challenge of overfitting due to scarce high-quality labeled data. We introduce RadarAE, a novel representation learning framework that utilizes unlabeled radar data to improve gesture recognition accuracy in few-shot learning scenarios.",
+          "publication": [
+            {
+              "title": "RadarAE",
+              "url": "https://ieeexplore.ieee.org/abstract/document/9918549"
+            }
+          ]
+        },
+        {
+          "name": "RFID-based Localization",
+          "intro": "Our research project focuses on the intricacies of RFID signal characteristics to develop a precise indoor localization system for RFID tags. We introduce an innovative approach named Deep Learning Enhanced Holography (DLEH), which integrates RFID-based Synthetic Aperture Radar (SAR) with Convolutional Neural Networks (CNN) to create a dynamic and adaptive localization model. Additionally, this project explores the integration of compressive sensing algorithms into RFID localization, further enhancing its efficiency and accuracy.",
+          "publication": [
+            {
+              "title": "FaHo",
+              "url": "https://dl.acm.org/doi/10.1145/3356250.3360035"
+            },
+            {
+              "title": "AdaRF",
+              "url": "https://dl.acm.org/doi/10.1145/3351271"
+            },
+            {
+              "title": "PEC",
+              "url": "https://ieeexplore.ieee.org/document/8824882"
+            },
+            {
+              "title": "PRMS",
+              "url": "https://dl.acm.org/doi/10.1145/3242102.3242138"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": ["Chinese", "English"],
+  "hobby": ["Travelling", "Swimming", "Singing", "Cooking"],
+  "services": ["TPC for FMSys'24", "Reviewer for TMC'23", "Reviewer for TOSN'23"],
+  "information": "Latest updated by February 2024",
+  "message": ""
+}
